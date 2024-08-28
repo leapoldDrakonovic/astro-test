@@ -1,0 +1,7 @@
+.blocklist {
+    width: 100%;
+    display: grid;
+    gap: 20px;
+    justify-content: center;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+}
